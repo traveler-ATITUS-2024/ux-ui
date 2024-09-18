@@ -1,45 +1,46 @@
-# Nome do Aplicativo
+# traveler
 
-![Logo do App](link-da-logo-aqui) <!-- Se houver um logo -->
+![Logo do App](link-da-logo-aqui)
 
 ## ✨ Descrição
 
-O **Nome do Aplicativo** é uma aplicação que tem como objetivo [breve descrição do propósito do app, como "ajudar usuários a organizar suas tarefas diárias" ou "oferecer uma plataforma simples para compartilhar fotos com amigos"].
+O **traveler** é uma aplicação que tem como objetivo ajudar no controle das despesas da sua viagem, podendo separá-las em categorias e fazer comparativos de gastos reais x previstos.
 
 ---
 
 ## 📱 Telas do Aplicativo
 
-### Tela Inicial
-![Tela Inicial](caminho/para/screenshot-inicial.png)
-
-Aqui é onde o usuário começa. A tela inicial permite que o usuário [explique brevemente o que o usuário pode fazer nesta tela, como "navegar pelas principais funcionalidades do aplicativo"].
-
 ### Tela de Login
 ![Tela de Login](caminho/para/screenshot-login.png)
 
-Na tela de login, os usuários podem entrar em suas contas para acessar seus dados e personalizações. É possível logar com [Google, Facebook, e-mail, etc.].
+Na tela de login, os usuários podem entrar em suas contas para acessar seus dados e personalizações. É possível logar com Google, Apple e Facebook.
 
 ### Tela de Cadastro
 ![Tela de Cadastro](caminho/para/screenshot-cadastro.png)
 
-Aqui o usuário pode criar uma nova conta para usar o aplicativo. O formulário de cadastro inclui [breve descrição do que é necessário, como "nome, e-mail e senha"].
+Aqui o usuário pode criar uma nova conta para usar o aplicativo. O formulário de cadastro inclui Nome de usuário, e-mail e senha.
 
-### Tela de Funcionalidade Principal
-![Tela Principal](caminho/para/screenshot-principal.png)
+### Tela Inicial
+![Tela Inicial](caminho/para/screenshot-inicial.png)
 
-Nesta tela, o usuário pode [explicar o principal recurso ou funcionalidade do app]. Essa é a parte mais importante da experiência do aplicativo.
+A tela inicial permite que o usuário cadastre uma nova viagem, informando um título, localidade, data de ida, data de retorna e o valor previsto.
 
-### Tela de Configurações
-![Tela de Configurações](caminho/para/screenshot-configuracoes.png)
+### Tela das Viagens
+![Tela Viagens](caminho/para/screenshot-viagem.png)
 
-A tela de configurações permite ao usuário personalizar a experiência do aplicativo, ajustando [descrição de algumas opções, como "notificações, temas, entre outras"].
+Aqui o usuário consegue visualizar alguns detalhes e acessar os gastos da viagem, além de poder finalizá-la ou excluí-la.
+
+### Tela das Despesas
+![Tela Viagens](caminho/para/screenshot-despesas.png)
+
+É nesta tela que o usuário identifica o quanto foi gasto em cada categoria de suas despesas, e também, acessará as mesmas categorias para incluir novos gastos os excluir gastos que foram adicionados incorretamente.
 
 ---
 
 ## 🎯 Objetivo do Aplicativo
 
-O **Nome do Aplicativo** foi desenvolvido para [explique brevemente a necessidade ou problema que seu app resolve]. O foco é proporcionar [valor principal, como "uma experiência rápida e fácil para o usuário" ou "mais controle sobre as tarefas diárias"].
+O **traveler** foi desenvolvido para que você possa controlar de maneira mais efetiva os gastos durante a sua viagem, e para que possa aproveitar melhor o tempo ao lado de que você ama.
+O foco é proporcionar uma experiência rápida e fácil para o usuário, com funcionalidades que ajudam na gestão das despesas no decorrer do seu tempo de lazer.
 
 ---
 
@@ -47,5 +48,5 @@ O **Nome do Aplicativo** foi desenvolvido para [explique brevemente a necessidad
 
 Se tiver algum feedback ou quiser colaborar com o desenvolvimento do app, sinta-se à vontade para entrar em contato:
 
-- **E-mail:** exemplo@email.com
-- **Website:** [www.seusite.com](https://www.seusite.com)
+- **E-mail:** 1134300@atitus.edu.br
+- **LinkedIn:** https://www.linkedin.com/in/bernardo-sozo-fattini-011654269/
