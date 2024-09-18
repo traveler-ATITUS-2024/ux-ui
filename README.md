@@ -11,29 +11,34 @@ O **traveler** é uma aplicação que tem como objetivo ajudar no controle das d
 ## 📱 Telas do Aplicativo
 
 ### Tela de Login
-![Tela de Login](caminho/para/screenshot-login.png)
+![Tela de Login](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Login.png)
 
 Na tela de login, os usuários podem entrar em suas contas para acessar seus dados e personalizações. É possível logar com Google, Apple e Facebook.
 
 ### Tela de Cadastro
-![Tela de Cadastro](caminho/para/screenshot-cadastro.png)
+![Tela de Cadastro](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Cadastro.png)
 
 Aqui o usuário pode criar uma nova conta para usar o aplicativo. O formulário de cadastro inclui Nome de usuário, e-mail e senha.
 
 ### Tela Inicial
-![Tela Inicial](caminho/para/screenshot-inicial.png)
+![Tela Inicial](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Inicial.png)
 
 A tela inicial permite que o usuário cadastre uma nova viagem, informando um título, localidade, data de ida, data de retorna e o valor previsto.
 
 ### Tela das Viagens
-![Tela Viagens](caminho/para/screenshot-viagem.png)
+![Tela Viagens](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Viagem.png)
 
 Aqui o usuário consegue visualizar alguns detalhes e acessar os gastos da viagem, além de poder finalizá-la ou excluí-la.
 
-### Tela das Despesas
-![Tela Viagens](caminho/para/screenshot-despesas.png)
+### Tela das Categorias
+![Tela Viagens](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Categorias.png)
 
 É nesta tela que o usuário identifica o quanto foi gasto em cada categoria de suas despesas, e também, acessará as mesmas categorias para incluir novos gastos os excluir gastos que foram adicionados incorretamente.
+
+### Tela das Categorias
+![Tela Viagens](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Despesas.png)
+
+É nesta tela que o usuário inclui novos gastos e também poderá excluílos, caso tenho cometido algum erro no cadastro.
 
 ---
 
