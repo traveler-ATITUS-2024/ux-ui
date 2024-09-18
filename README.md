@@ -11,12 +11,12 @@ O **traveler** é uma aplicação que tem como objetivo ajudar no controle das d
 ## 📱 Telas do Aplicativo
 
 ### Tela de Login
-![Tela de Login](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Login.png)
+![Tela de Login](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Login_02.png)
 
 Na tela de login, os usuários podem entrar em suas contas para acessar seus dados e personalizações. É possível logar com Google, Apple e Facebook.
 
 ### Tela de Cadastro
-![Tela de Cadastro](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Cadastro.png)
+![Tela de Cadastro](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Cadastro_02.png)
 
 Aqui o usuário pode criar uma nova conta para usar o aplicativo. O formulário de cadastro inclui Nome de usuário, e-mail e senha.
 
