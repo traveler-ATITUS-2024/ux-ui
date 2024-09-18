@@ -1,6 +1,6 @@
 # traveler
 
-![Logo do App](link-da-logo-aqui)
+![Logo do App](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Logo.png)
 
 ## ✨ Descrição
 
