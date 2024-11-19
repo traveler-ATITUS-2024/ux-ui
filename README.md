@@ -1,7 +1,5 @@
 # traveler-brasil
 
-![Logo do App](https://github.com/traveler-ATITUS-2024/ux-ui/blob/main/Logo.png)
-
 ## ✨ Descrição
 
 O **traveler** é uma aplicação que tem como objetivo ajudar no controle das despesas da sua viagem, podendo separá-las em categorias e fazer comparativos de gastos reais x previstos.
